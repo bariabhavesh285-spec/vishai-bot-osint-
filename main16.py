@@ -15,7 +15,7 @@ BOT_TOKEN = "8434035883:AAGJKCzOI5Gk4GnvMqMZHE0viFQpUOHBHqA"
 bot = telebot.TeleBot(BOT_TOKEN, parse_mode="HTML")
 
 BOT_USERNAME = "@Bhhhdh_bot"
-DEFAULT_ADMIN = 7997066032
+DEFAULT_ADMIN = 5389788898
 DEVELOPER_USERNAME = "@https://t.me/bhsgyi"
 DEVELOPER_FOOTER = f"""
 <code>━━━━━━━━━━━━━━━━━━━━</code>
